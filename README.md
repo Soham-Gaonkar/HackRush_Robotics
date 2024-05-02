@@ -1,3 +1,5 @@
+# HACK RUSH 2024 ! Robotics
+
 # RoboRig: A 2R Manipulator Simulation
 ## Overview
 RoboRig is a 2R manipulator designed for versatility and efficiency. This repository contains a Python codebase for simulating RoboRig's motion control, trajectory planning, and optimization schemes. With its trusty revolute joints, RoboRig embarks on a quest to conquer challenges with the guidance of its human companions.
